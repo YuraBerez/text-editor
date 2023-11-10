@@ -1,0 +1,9 @@
+<quill-editor [(ngModel)]="editorContent" (ngModelChange)="updateContent()"></quill-editor>
+
+<div>
+    <h3>Text Being Edited:</h3>
+    <p [innerHTML]="sanitizedContent"></p>
+
+    <h3>Output text code:</h3>
+    <p [textContent]="sanitizedContent"></p>
+</div>
