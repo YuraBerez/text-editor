@@ -1,5 +1,7 @@
 # TextEditor
 
+<img width="1792" alt="Screenshot 2023-11-10 at 10 58 42" src="https://github.com/YuraBerez/text-editor/assets/26376713/7f56032e-d361-424f-a096-32154f7da74e">
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
 ## Development server
